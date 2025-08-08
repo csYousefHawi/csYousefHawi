@@ -1,4 +1,3 @@
-CsYousefHawi|
 
 <h1 align="center">👋 Hello! I'm Yousef</h1>
 
